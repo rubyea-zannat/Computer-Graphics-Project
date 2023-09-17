@@ -1,4 +1,3 @@
-# Computer-Graphics-Project
 ** Welcome to Urban Majestic City **  "
 
 To control the project conditions please press the following assigned keys
